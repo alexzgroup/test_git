@@ -1,3 +1,6 @@
 <?php
 
-    $test = 55;
+    $test = 77;
+
+
+    echo __DIR__;
